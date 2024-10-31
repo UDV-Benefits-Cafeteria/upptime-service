@@ -6,7 +6,7 @@ sites:
   - name: Frontend
     url: https://vstrechya.space
   - name: Backend
-    url: https://engine.vstrechya.space
+    url: https://engine.vstrechya.space/docs
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
