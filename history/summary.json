@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 613,
-    "timeDay": 613,
-    "timeWeek": 613,
-    "timeMonth": 613,
-    "timeYear": 613,
+    "time": 677,
+    "timeDay": 677,
+    "timeWeek": 677,
+    "timeMonth": 677,
+    "timeYear": 677,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,19 @@
     "url": "https://engine.vstrechya.space/docs",
     "icon": "https://icons.duckduckgo.com/ip3/engine.vstrechya.space.ico",
     "slug": "backend",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 609,
-    "timeDay": 609,
-    "timeWeek": 609,
-    "timeMonth": 609,
-    "timeYear": 609,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 742,
+    "timeDay": 742,
+    "timeWeek": 742,
+    "timeMonth": 742,
+    "timeYear": 742,
+    "dailyMinutesDown": {
+      "2024-10-31": 0
+    }
   }
 ]
