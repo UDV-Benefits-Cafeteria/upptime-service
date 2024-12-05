@@ -4,19 +4,19 @@
     "url": "https://vstrechya.space",
     "icon": "https://icons.duckduckgo.com/ip3/vstrechya.space.ico",
     "slug": "frontend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 837,
-    "timeDay": 2075,
-    "timeWeek": 1096,
-    "timeMonth": 840,
-    "timeYear": 837,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 830,
+    "timeDay": 1572,
+    "timeWeek": 1037,
+    "timeMonth": 831,
+    "timeYear": 830,
     "dailyMinutesDown": {
-      "2024-12-05": 0
+      "2024-12-05": 12
     }
   },
   {
